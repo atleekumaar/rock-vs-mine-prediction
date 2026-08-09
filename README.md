@@ -30,10 +30,10 @@ Sonar (sound navigation and ranging) data is collected from different angles to 
 - **Test Accuracy:** ~76.1%
 
 ---
-
-## How to Run Locally
+## 🚀 How to Run Locally
 
 ### 1. Clone the repository
 ```bash
 git clone [https://github.com/atleekumaar/rock-vs-mine-prediction.git](https://github.com/atleekumaar/rock-vs-mine-prediction.git)
 cd rock-vs-mine-prediction
+
