@@ -1,6 +1,7 @@
  #  Rock vs Mine Prediction 
 
 This project uses Machine Learning to predict whether a detected underwater object is a **Rock** or a **Mine** based on SONAR frequency data.
+Link of web app ==> https://blank-app-faabjyd1lpg.streamlit.app/
 
 ---
 
@@ -37,3 +38,37 @@ Sonar (sound navigation and ranging) data is collected from different angles to 
 git clone [https://github.com/atleekumaar/rock-vs-mine-prediction.git](https://github.com/atleekumaar/rock-vs-mine-prediction.git)
 cd rock-vs-mine-prediction
 
+```
+
+
+
+
+
+                                        
+
+     
+
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+
+```
+
+### 3. Launch the Streamlit App
+
+```bash
+streamlit run app.py
+
+```
+
+*(Replace `app.py` with your Streamlit entry point script if it uses a different name, e.g., `main.py`)*
+
+---
+
+## 💡 How to Use the Web App
+
+1. Enter or select the 60 SONAR frequency values in the web interface.
+2. Click the **Predict** button.
+3. View the model's output predicting whether the object is a **Rock** or a **Mine**.
