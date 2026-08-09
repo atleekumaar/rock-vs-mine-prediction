@@ -1,8 +1,8 @@
  #  Rock vs Mine Prediction 
 
 This project uses Machine Learning to predict whether a detected underwater object is a **Rock** or a **Mine** based on SONAR frequency data.
-Link of web app ==> https://blank-app-faabjyd1lpg.streamlit.app/
-
+Link of web app ==> https://blank-app-faabjyd1lpg.streamlit.app/ ||
+                            [Rock vs Mine Prediction](https://github.com/atleekumaar/rock-vs-mine-prediction) | [Live Web App](https://blank-app-faabjyd1lpg.streamlit.app/)
 ---
 
 ## Project Overview
